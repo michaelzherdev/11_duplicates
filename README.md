@@ -5,7 +5,7 @@ Program searched for duplicate files in passed directory
 # How to use
 Run from command line:
 ```shell
-cd ${path_to_script}
+cd <path-to-script>
 python duplicates.py <path-to-directory>
 ```
 Example of output:
